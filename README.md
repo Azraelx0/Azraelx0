@@ -1,8 +1,4 @@
 ## Hi I'm Caden
-<p align="left">
-  <img src="https://www.pinterest.com/pin/107593878592351936/
-" width="200" align="right">
-</p>
 
 Cybersecurity & networking student 🖥️ with a passion for DFIR, red teaming, and breaking things (and putting them back together of course xD).
 
@@ -15,3 +11,7 @@ Cybersecurity & networking student 🖥️ with a passion for DFIR, red teaming,
 📚 Reading anything from tech books to fiction
 
 🕵️ Tackling cyber challenges and CTF puzzles
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/7T86WhoCpigAAAAC/jigokuraku-hells-paradise.gif" width="350" alt="Gabimaru">
+</p>
