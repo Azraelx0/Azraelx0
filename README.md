@@ -1,6 +1,6 @@
 ## Hi I'm Caden
 
-Cybersecurity & networking student 🖥️ with a passion for DFIR, red teaming, and breaking things (and putting them back together of course xD).
+Cybersecurity & networking student 🖥️ with a passion for DFIR and red teaming.
 
 🛠️ In my free time you'll usually find me:
 
