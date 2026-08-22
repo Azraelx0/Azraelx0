@@ -6,9 +6,7 @@ Cybersecurity & networking student 🖥️ with a passion for DFIR and red teami
 
 🐧 Tinkering with variety Linux distros
 
-🎧 Listening to music or podcasts
-
-📚 Reading anything from tech books to fiction
+🎧 Listening to music or audiobooks
 
 🕵️ Tackling cyber challenges and CTF puzzles
 
