@@ -10,6 +10,3 @@ Cybersecurity & networking student 🖥️ with a passion for DFIR and red teami
 
 🕵️ Tackling cyber challenges and CTF puzzles
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/7T86WhoCpigAAAAC/jigokuraku-hells-paradise.gif" width="350" alt="Gabimaru">
-</p>
