@@ -18,7 +18,7 @@ A local multi-agent AI environment for studying the risks that come with agentic
 
 ---
 
-### 📂 Coursework & Labs
+### 📂 Coursework, Labs, Internships
 
 | Repo | Focus |
 |---|---|
