@@ -1,4 +1,4 @@
-## Hi, I'm Azraelx0 👋
+## Hi, I'm Azrael 👋
 
 Cybersecurity & networking student focused on **DFIR** and **red teaming**. Most of what I learn ends up as a writeup here: labs, home lab builds, and side projects that look at security from both sides.
 
